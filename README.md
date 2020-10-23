@@ -13,9 +13,9 @@ All the tutorials are created to work with Google Colaboratory, thus no addition
 3. Choose the notebook from the list to open. You will see the following window
 ![Notebook](/img/notebook.png)
 4. [If required] log in to your Google account
-5. Before running, make sure that the device you are using is configured correctly. To check it go to 'Edit -> Notebook settings' in the menu  and switch 'Hardware accelerator' to 'GPU' or 'TPU' depending on the tutorial instructions.
+5. Before running, make sure that the device you are using is configured correctly. To check it go to **'Edit -> Notebook settings'** in the menu  and switch **'Hardware accelerator'** to **'GPU'** or **'TPU'** depending on the tutorial instructions.
 ![Device](/img/gpu.png)
-6. In the next window, click 'RUN ANYWAY' and click YES for 'Reset all runtimes'
+6. In the next window, click **'RUN ANYWAY'** and click **YES** for **'Reset all runtimes'**
 ![Run anyway](/img/run.png)
 # How to save notebooks
 You can save the notebooks on your local machine using one of following options:
