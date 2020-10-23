@@ -3,8 +3,8 @@ This is the tutorials repository of the SOTA Machine Learning School.
 
 ## The list of tutorials available currently (links to be updated):
 1. Natalia Khanzhina and Roman Lebedev (Day 1)-- The pipeline of typical CV task solving with frameworks comparison
-2. Arip Asadulaev and Petr Kuznetsov (Day 2) -- GANs for Image Generation
-3. Arip Asadulaev and Petr Kuznetsov (Day 2) -- Optimal Transport task
+2. Arip Asadulaev and Igor Kuznetsov (Day 2) -- GANs for Image Generation
+3. Arip Asadulaev and Igor Kuznetsov (Day 2) -- Optimal Transport task
 
 # How to run 
 All the tutorials are created to work with Google Colaboratory, thus no additional software packages installing is required.
