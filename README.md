@@ -11,12 +11,15 @@ All the tutorials are created to work with Google Colaboratory, thus no addition
 1. Go to https://colab.research.google.com/github/sotamls-itmo/tutorials
 2. [If required] log in to your GitHub account via the pop-up window
 3. Choose the notebook from the list to open. You will see the following window
-![Notebook](/img/notebook.png)
+
+![Notebook](/img/img1.png)
 4. [If required] log in to your Google account
 5. Before running, make sure that the device you are using is configured correctly. To check it go to **'Edit -> Notebook settings'** in the menu  and switch **'Hardware accelerator'** to **'GPU'** or **'TPU'** depending on the tutorial instructions.
-![Device](/img/gpu.png)
+
+![Device](/img/img3.png)
 6. In the next window, click **'RUN ANYWAY'** and click **YES** for **'Reset all runtimes'**
-![Run anyway](/img/run.png)
+
+![Run anyway](/img/img2.png)
 # How to save notebooks
 You can save the notebooks on your local machine using one of following options:
 - In the notebook menu via **File->Save a copy in Drive** or **File->Download.ipynb**
